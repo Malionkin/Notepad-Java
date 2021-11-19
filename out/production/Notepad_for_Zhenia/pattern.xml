@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<patterns>
+    <color hex ="#e64580">
+        <pattern>private</pattern>
+        <pattern>public</pattern>
+        <pattern>class</pattern>
+    </color>
+    <color hex ="#ee9086">
+        <pattern>int</pattern>
+        <pattern>String</pattern>
+        <pattern>void</pattern>
+    </color>
+    <color hex ="#ff97bb">
+        <pattern>"(.+)?"</pattern>
+    </color>
+    <color hex ="#e0b0ff">
+        <pattern>\d+</pattern>
+    </color>
+    <color hex ="#ee9086">
+        <pattern>\{|\}</pattern>
+    </color>
+</patterns>
